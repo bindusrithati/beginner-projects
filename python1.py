@@ -3,3 +3,4 @@ name = input("Enter your name: ")
 
 # Print a greeting
 print("Hello, " + name + "! Welcome to Python.")
+print("hi bindu")
