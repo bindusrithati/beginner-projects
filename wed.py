@@ -6,3 +6,4 @@ def fun(a,b):
 print(fun(2,3))
 print(fun(4,3))
 print("this is wednesday")
+print("time is sevenfifty")
