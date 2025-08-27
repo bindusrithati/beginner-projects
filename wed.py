@@ -5,3 +5,4 @@ def fun(a,b):
     return c,d,e
 print(fun(2,3))
 print(fun(4,3))
+print("this is wednesday")
