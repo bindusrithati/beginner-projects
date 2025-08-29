@@ -8,8 +8,8 @@ for i in input:
         words.append(word)
         word=""
 words.append(word)
-for j in words:
-    rev_str=""
-    for h in j:
-        rev_str=h+rev_str
-    print(rev_str,end=" ")
+# print(words)#['this', 'is', 'bindu']
+rev_str=""
+for j in words:#this #is
+  rev_str=j+" "+rev_str 
+print(rev_str)
