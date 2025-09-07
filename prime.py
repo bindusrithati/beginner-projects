@@ -1,6 +1,6 @@
 a=int(input("enter a number:"))
 b=int(input("enter a number:"))
-if a==0 or 1:
+if a==0 or a==1:
     print("they are not primes")
 for i in range(a,b):
     no_of_times=0
